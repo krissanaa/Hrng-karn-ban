@@ -40,7 +40,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`u_id`, `u_fullname`, `u_username`, `u_password`, `u_level`) VALUES
-(1, 'ภูวนัย แสงพล', 'puwanai', '53c896725d1dd41edc19c1b4e4a8154d', 'administrator');
+(1, 'benz', 'krissana', '1234', 'administrator');
 
 --
 -- Indexes for dumped tables
